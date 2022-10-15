@@ -1,0 +1,13 @@
+:host {
+    display: block;
+
+    p:first-child {
+        display: inline;
+        float: left;
+        margin: 0;
+    }
+
+    .noteLine {
+        border-bottom: 2px solid black;
+    }
+}
